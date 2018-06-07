@@ -5,7 +5,7 @@
 
 跨平台支持 Win、Mac 双系统。
 
-[最新版本地址](https://github.com/zyao89/2O3T-Calendar/relrases)
+[最新版本地址](https://github.com/zyao89/2O3T-Calendar/releases)
 
 ## 主要功能如下：
 
