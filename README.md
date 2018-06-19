@@ -5,6 +5,8 @@
 
 > 跨平台支持 Win、Mac 双系统。
 
+![ICON](Capture/app-icon.png)
+
 [最新版本下载地址](https://github.com/zyao89/2O3T-Calendar/releases/latest)
 
 更多使用功能，[请点击这里](https://www.zyao89.cn/blog/article/5b253393cef255644452eb2a)
@@ -51,6 +53,12 @@
 
 - 主界面(全屏)):
 ![主界面(全屏)](/Capture/page-main-full.png)
+
+- 便签管理:
+![便签管理](/Capture/page-bianqian.png)
+
+- 便签卡片:
+![便签卡片](/Capture/page-bianqian-card.png)
 
 ## 赞赏一杯小咖啡
   
